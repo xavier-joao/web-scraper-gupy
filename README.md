@@ -1,5 +1,5 @@
 # Web Scraper Gupy
-Script de Web Scraping realizado como desafio para vaga de estágio de dados da Driva. Coleta todas as vagas disponíveis na Gupy a partir de uma palavra chave utilizando Selenium e Beautifulsoup. CSVs gerados se encontram na pasta csv.
+Script de Web Scraping realizado como desafio. Coleta todas as vagas disponíveis na Gupy a partir de uma palavra chave utilizando Selenium e Beautifulsoup. CSVs gerados se encontram na pasta csv.
 
 ![image](https://github.com/joao-xavi/web-scraper-gupy/assets/80941562/e71bfda3-3c39-48f9-b781-9b1ee215ea0b)
 
