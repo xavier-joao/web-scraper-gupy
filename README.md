@@ -5,4 +5,11 @@ Script de Web Scraping realizado como desafio. Coleta todas as vagas disponívei
 
 
 
-Visualização no colab.research: https://colab.research.google.com/drive/1z0ruxGKrtwXpn7QhWxcE5orVTLY3bZbM?usp=sharing
+No colab.research: https://colab.research.google.com/drive/1z0ruxGKrtwXpn7QhWxcE5orVTLY3bZbM?usp=sharing
+
+Visualização dos dados:
+![image](https://github.com/xavier-joao/web-scraper-gupy/assets/80941562/bec61648-ba87-4320-afda-9c38b405f1ff)
+
+![image](https://github.com/xavier-joao/web-scraper-gupy/assets/80941562/a619c2aa-dbe3-414e-b926-b5e2775cf7bc)
+
+![image](https://github.com/xavier-joao/web-scraper-gupy/assets/80941562/a19cf0a3-834b-4d5a-9cd2-6bfb4330491e)
